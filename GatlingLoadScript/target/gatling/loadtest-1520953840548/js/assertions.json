@@ -1,0 +1,10 @@
+{
+  "simulation": "LoadTest",
+  "simulationId": "loadtest",
+  "start": 1520953840548,
+  "description": "",
+  "scenarios": ["BaseLoad"],
+  "assertions": [
+
+  ]
+}

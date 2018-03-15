@@ -1,0 +1,18 @@
+{
+  "simulation": "LoadTest",
+  "simulationId": "loadtest",
+  "start": 1520957315040,
+  "description": "",
+  "scenarios": ["BaseLoad"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "95th percentile of response time",
+  "condition": "is between",
+  "conditionValues": [5,10],
+  "result": false,
+  "message": "Global: 95th percentile of response time is between 5 and 10",
+  "values": [711]
+}
+  ]
+}

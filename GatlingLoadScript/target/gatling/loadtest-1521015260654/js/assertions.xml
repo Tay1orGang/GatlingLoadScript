@@ -1,0 +1,5 @@
+<testsuite name="LoadTest" tests="1" errors="0" failures="1" time="0">
+<testcase name="Global: 95th percentile of response time is between 5 and 10" status="false" time="0">
+  <failure type="Global">Actual values: 3474</failure>
+</testcase>
+</testsuite>

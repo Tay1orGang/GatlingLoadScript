@@ -1,0 +1,10 @@
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(LoadTest, sbt.ForkMain$SubclassFingerscan@510b872d, false, [SuiteSelector])
+[error] Simulation LoadTest failed.
+[debug]     Produced 0 nested tasks and 1 events.
+[info] Simulation(s) execution ended.
+[error] Failed tests:
+[error] 	LoadTest
+[error] (gatling:testOnly) sbt.TestsFailedException: Tests unsuccessful
